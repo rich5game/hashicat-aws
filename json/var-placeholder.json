@@ -3,7 +3,7 @@
     "type":"vars",
     "attributes": {
       "key":"placeholder",
-      "value":"picsum.photos",
+      "value":"https://media2.giphy.com/media/cmZKQ1tUmk3qoESull/giphy.gif",
       "category":"terraform",
       "hcl":false,
       "sensitive":false
